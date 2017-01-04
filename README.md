@@ -1,3 +1,3 @@
 # Specs
 
-Yevgen Tsyganenko CocoaPods Specs
+CocoaPods Specs
